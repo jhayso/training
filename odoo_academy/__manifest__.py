@@ -29,4 +29,6 @@
     'demo': [
         
     ],
+    
+    "license": "OPL-1"
 }
